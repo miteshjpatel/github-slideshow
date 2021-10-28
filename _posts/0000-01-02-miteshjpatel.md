@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+From Mitesh Patel
 Use the left arrow to go back!
